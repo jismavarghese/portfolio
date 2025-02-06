@@ -1,0 +1,7 @@
+day 1:06-02-2025
+
+git installation and setup
+html basic tags --> <ul>,<li>,<nav>,<div>,<form> tags.
+css styles
+
+challenges:hash key setting and commit
