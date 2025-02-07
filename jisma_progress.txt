@@ -5,3 +5,20 @@ html basic tags --> <ul>,<li>,<nav>,<div>,<form> tags.
 css styles
 
 challenges:hash key setting and commit
+
+day 2:07-02-2025
+learn:
+ Portfolio Website Creation:
+
+How to structure an HTML file for a personal portfolio.
+How to link a CSS file (styles.css) for styling.
+How to create sections like About, Skills, Projects, and Contact.
+ Styling with CSS:
+
+Adding background colors, margins, padding, and text styles.
+Creating buttons and hover effects for better user interaction.
+challeneges:
+1️ Structuring HTML Properly
+
+Ensuring a clean, readable structure with proper sections (header, section, footer).
+Linking the CSS file correctly for styling.
